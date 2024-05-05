@@ -1,4 +1,4 @@
-# Craps-Dice-Game-With-C
+# Craps-Dice-Game
 
 What is the Craps Dice Game?
 
